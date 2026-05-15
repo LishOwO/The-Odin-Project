@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.pink-background.verdana {
+  background-color: rgb(250, 191, 201);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+  font-size: 24px;
+}
+
+#no2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#no4 {
+  background-color: rgb(139, 234, 139);
+  font-weight: bold;
+}
