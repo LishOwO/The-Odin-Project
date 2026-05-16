@@ -1,0 +1,30 @@
+* {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+body {
+  width: 60vw;
+  margin: 5vh auto;
+  font-size: 18px;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  margin: 10vh auto;
+  font-size: 58px;
+}
+
+a {
+  text-decoration: none;
+  color: darkblue;
+}
+
+.no-list-style {
+  text-align: center;
+  list-style: none;
+}
+
+.important {
+  font-size: 32px;
+}
